@@ -54,9 +54,9 @@ This lightweight, versatile web framework forms the foundation of SearchME's web
 
 ## Example
 
-**Searching Image:** xx.jpg
+**Searching Image:** xx.png
 
-**Output Image:** yy.jpg
+**Output Image:** yy.png
 
 ## Contributing
 
