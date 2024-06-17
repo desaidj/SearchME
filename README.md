@@ -56,13 +56,13 @@ This lightweight, versatile web framework forms the foundation of SearchME's web
 
 **Searching Image:** 
 <div align='center'>
-    <img src='xx.png' width=600 height=400>
+    <img src='xx.jpg' width=600 height=400>
 </div>
 
 
 **Output Image:** 
 <div align='center'>
-    <img src='yy.png' width=600 height=400>
+    <img src='yy.jpg' width=600 height=400>
 </div>
 
 
