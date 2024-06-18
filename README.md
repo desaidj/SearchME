@@ -13,7 +13,7 @@ SearchME is a website that provides a summary of a person by searching for them 
 Ensure you have the following environment variables set in your `.env` file:
 
 - `PYTHONPATH=/{YOUR_PATH_TO_PROJECT}/ice_breaker`
-- `ANTHROPIC_API_KEY` (for use with OpenAI)
+- `ANTHROPIC_API_KEY` (for use with Anthropic Claude API) (Can also use openai API)
 - `PROXYCURL_API_KEY` (for use with ProxyCurl)
 - `TAVILY_API_KEY` (for use with Tavily)
 - `TWITTER_API_KEY` (for potential future use with Twitter) (requires paid subscription)
