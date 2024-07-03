@@ -43,7 +43,7 @@ pipenv run app.py
 # Tech Stack Powering SearchME
 
 ## Large Language Models (LLMs) 
-(Potential Future Integration): While not currently implemented, the potential to integrate LLMs like Bard (me!) or similar systems within SearchME exists. LLMs could enhance information extraction from various sources, including text-based profiles beyond LinkedIn.
+LLMs enhance information extraction from various sources, including text-based profiles beyond LinkedIn.
 
 ## LinkedIn API
 This API grants SearchME access to public LinkedIn profile data, enabling the extraction of key information like name, job title, education, and skills.
